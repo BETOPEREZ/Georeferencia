@@ -1,0 +1,12 @@
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\bin\Debug\Georeferencia.exe.config
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\bin\Debug\Georeferencia.exe
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\bin\Debug\Georeferencia.pdb
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.csprojResolveAssemblyReference.cache
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.Properties.Resources.resources
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.csproj.GenerateResource.Cache
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.exe
+c:\users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.pdb
+C:\Users\sandr\Documents\Visual Studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.Menu.resources
+C:\Users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.Inicio.resources
+C:\Users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.NuevoProyecto.resources
+C:\Users\sandr\documents\visual studio 2015\Projects\Georeferencia\Georeferencia\obj\Debug\Georeferencia.ArchivosFinales.resources
